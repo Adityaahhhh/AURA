@@ -356,6 +356,7 @@ function App() {
 
           <div className="nav-links">
             <span>How It Works</span>
+            <span>About</span>
             <span>Explore</span>
 
             <button
